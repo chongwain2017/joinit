@@ -1,2 +1,2 @@
-# joinit
-Pull all PowerShell scripts into my repository
+# joinitAzure
+This Repo will be used to store powershell scripts for Azure deployement 
